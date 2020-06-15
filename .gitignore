@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# IBM project
+.ibm-project
+
+# Air Live Reload
+tmp/
